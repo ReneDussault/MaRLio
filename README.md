@@ -4,6 +4,7 @@ Mario's adventure with Reinforcement Learning
 WIP
 
 training RL model to play SMW on the SNES
+
 more documentation soon
 
 ### Deep Reinforcement Learning for Super Mario World and the potential of RL models in Nuclear Fusion
