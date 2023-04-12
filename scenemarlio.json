@@ -27,6 +27,21 @@
         "op": "less",
         "reference": "last",
         "reward": 0.01
+      },
+      "xpos": {
+        "op": "less",
+        "reference": "last",
+        "penalty": 0.002
+      },
+      "ypos": {
+        "op": "greater",
+        "reference": "last",
+        "penalty": 0.001
+      },
+      "lives": {
+        "op": "less",
+        "reference": "last",
+        "reward": -10.0
       }
     }
   }
