@@ -21,7 +21,7 @@
       "xpos": {
         "op": "greater",
         "reference": "last",
-        "reward": 0.02
+        "reward": 0.01
       },
       "ypos": {
         "op": "less",
@@ -30,11 +30,6 @@
       },
       "xpos": {
         "op": "less",
-        "reference": "last",
-        "penalty": 0.002
-      },
-      "ypos": {
-        "op": "greater",
         "reference": "last",
         "penalty": 0.001
       },
