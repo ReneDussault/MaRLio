@@ -13,8 +13,8 @@
       "type": "|i1"
     },
     "lives": {
-      "address": 8261399,
-      "type": "|u1"
+      "address": 8261054,
+      "type": "|i1"
     },
     "powerups": {
       "address": 25,
