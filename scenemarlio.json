@@ -42,6 +42,11 @@
         "op": "less",
         "reference": "last",
         "reward": -10.0
+      },
+      "endOfLevel": {
+        "op": "equal",
+        "reference": 1,
+        "reward": 1000.0
       }
     }
   }
