@@ -21,22 +21,22 @@
       "xpos": {
         "op": "greater",
         "reference": "last",
-        "reward": 0.01
+        "reward": 0.001
       },
       "ypos": {
         "op": "less",
         "reference": "last",
-        "reward": 0.01
+        "reward": 0.001
       },
       "xpos": {
         "op": "less",
         "reference": "last",
-        "penalty": 0.001
+        "penalty": 0.0001
       },
       "lives": {
         "op": "less",
         "reference": "last",
-        "reward": -10.0
+        "reward": -10000.0
       },
       "endOfLevel": {
         "op": "equal",
