@@ -5,6 +5,8 @@ WIP
 
 training RL model to play SMW on the SNES
 
+https://huggingface.co/deep-rl-course/unit8/introduction?fw=pt
+
 more documentation soon
 
 ### Deep Reinforcement Learning for Super Mario World and the potential of RL models in Nuclear Fusion
