@@ -29,11 +29,6 @@
         "reference": "last",
         "reward": 10
       },
-      "xpos": {
-        "op": "equal",
-        "reference": "last",
-        "penalty": 0.01
-      },
       "ypos": {
         "op": "less",
         "reference": "last",
