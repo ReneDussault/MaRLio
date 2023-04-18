@@ -1,5 +1,5 @@
 # MaRLio
-Mario's adventure with Reinforcement Learning
+## Mario's adventure with Reinforcement Learning
 
 more documentation soon
 
