@@ -47,4 +47,5 @@ The exploration of the potential of DRL in controlling a somewhat complex videog
 Overall, this project will showcase the potential of DRL in solving complex problems and preventing failures of complex systems.  
 
 
-<iframe src=marlio.ipynb" width="100%" height="500px"></iframe>
+
+<iframe src="https://github.com/ReneDussault/MaRLio/blob/main/marlio.ipynb" width="100%" height="500px"></iframe>
