@@ -1,6 +1,7 @@
 # MaRLio
 ## Mario's adventure with Reinforcement Learning
 
+click [here](marlio.ipynb) to explore the notebook
 more documentation soon
 
 ### Deep Reinforcement Learning for Super Mario World and the potential of RL models in Nuclear Fusion
