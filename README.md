@@ -45,3 +45,6 @@ Additionally, a dashboard cell will be provided at the beginning of the jupyter 
 The project will demonstrate the ability of DRL models to learn from data and prevent bad outcomes.  
 The exploration of the potential of DRL in controlling a somewhat complex videogame environment will provide insights into how this technology can be applied in real-world scenarios.  
 Overall, this project will showcase the potential of DRL in solving complex problems and preventing failures of complex systems.  
+
+
+<iframe src=marlio.ipynb" width="100%" height="500px"></iframe>
