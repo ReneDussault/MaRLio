@@ -34,11 +34,6 @@
         "reference": "last",
         "reward": 10
       },
-      "xpos": {
-        "op": "less",
-        "reference": "last",
-        "penalty": 0.1
-      },
       "lives": {
         "op": "less",
         "reference": "last",
