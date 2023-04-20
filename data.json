@@ -1,9 +1,5 @@
 {
   "info": {
-    "frames": {
-      "address": 20,
-      "type": "<u1"
-    },
     "checkpoint": {
       "address": 5070,
       "type": "|i1"
