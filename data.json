@@ -30,7 +30,7 @@
     },
     "ypos": {
       "address": 114,
-      "type": "<u4"
+      "type": "<u2"
     },
     "yoshi_coins": {
       "address": 8262690,
