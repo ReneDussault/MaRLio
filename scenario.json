@@ -29,10 +29,20 @@
         "reference": "last",
         "reward": 10
       },
+      "xpos": {
+        "op": "less",
+        "reference": "last",
+        "penalty": 1
+      },
       "ypos": {
         "op": "less",
         "reference": "last",
         "reward": 10
+      },
+      "ypos": {
+        "op": "greater",
+        "reference": "last",
+        "penalty": 1
       },
       "lives": {
         "op": "less",
