@@ -21,6 +21,11 @@
       "coins": {
         "reward": 1.0
       },
+      "frames": {
+        "op": "greater",
+        "reference": "last",
+        "reward": 1/60
+      },
       "yoshi_coins": {
         "reward": 1.0
       },
