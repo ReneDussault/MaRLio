@@ -47,7 +47,7 @@
       "lives": {
         "op": "less",
         "reference": "last",
-        "penalty": 1000.0
+        "penalty": 10000.0
       },
       "end_of_level": {
         "op": "equal",
