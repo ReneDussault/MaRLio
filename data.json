@@ -1,16 +1,16 @@
 {
   "info": {
-    "checkpoint": {
-      "address": 5070,
-      "type": "|i1"
+    "score": {
+      "address": 8261428,
+      "type": "<u4"
     },
     "coins": {
       "address": 8261055,
       "type": "|u1"
     },
-    "end_of_level": {
-      "address": 8259846,
-      "type": "|i1"
+    "yoshi_coins": {
+      "address": 8262690,
+      "type": "<u4"
     },
     "lives": {
       "address": 8261054,
@@ -20,10 +20,6 @@
       "address": 25,
       "type": "|i1"
     },
-    "score": {
-      "address": 8261428,
-      "type": "<u4"
-    },
     "xpos": {
       "address": 148,
       "type": "<u2"
@@ -32,9 +28,13 @@
       "address": 128,
       "type": "<u2"
     },
-    "yoshi_coins": {
-      "address": 8262690,
-      "type": "<u4"
+    "checkpoint": {
+      "address": 5070,
+      "type": "|i1"
+    },
+    "end_of_level": {
+      "address": 8259846,
+      "type": "|i1"
     }
   }
 }
