@@ -10,6 +10,10 @@
       "lives": {
         "op": "equal",
         "reference": -1
+      },
+      "end_of_level": {
+        "op": "equal",
+        "reference": 1
       }
     }
   },
@@ -27,22 +31,22 @@
       "xpos": {
         "op": "greater",
         "reference": "last",
-        "reward": 10
+        "reward": 1
       },
       "xpos": {
         "op": "less",
         "reference": "last",
-        "penalty": 1
+        "penalty": 0.1
       },
       "ypos": {
         "op": "less",
         "reference": "last",
-        "reward": 10
+        "reward": 1
       },
       "ypos": {
         "op": "greater",
         "reference": "last",
-        "penalty": 1
+        "penalty": 0.1
       },
       "lives": {
         "op": "less",
