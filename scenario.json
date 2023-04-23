@@ -46,7 +46,7 @@
       "ypos": {
         "op": "greater",
         "reference": "last",
-        "penalty": 0.1
+        "penalty": 1
       },
       "lives": {
         "op": "less",
