@@ -19,6 +19,11 @@
   },
   "reward": {
     "variables": {
+      "reward": {
+        "op": "less",
+        "reference": 0,
+        "reward": 1.0
+      },
       "score": {
         "reward": 1.0
       },
