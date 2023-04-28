@@ -46,6 +46,11 @@
       "ypos": {
         "op": "less",
         "reference": "last",
+        "reward": 0.3
+      },
+      "ypos": {
+        "op": "equal",
+        "reference": "last",
         "reward": 0.5
       },
       "ypos": {
