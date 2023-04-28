@@ -31,7 +31,27 @@
       "lives": {
         "op": "less",
         "reference": "last",
-        "penalty": 10000.0
+        "penalty": 1000.0
+      },
+      "xpos": {
+        "op": "greater",
+        "reference": "last",
+        "reward": 0.5
+      },
+      "xpos": {
+        "op": "less",
+        "reference": "last",
+        "reward": 0.1
+      },
+      "ypos": {
+        "op": "less",
+        "reference": "last",
+        "reward": 0.5
+      },
+      "ypos": {
+        "op": "greater",
+        "reference": "last",
+        "reward": 0.1
       },
       "powerups": {
         "op": "greater",
