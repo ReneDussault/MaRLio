@@ -1,48 +1,48 @@
-# videos
+videos
 
-# https://www.youtube.com/watch?v=2eeYqJ0uBKE
-# https://www.youtube.com/watch?v=qv6UVOQ0F44
-# https://www.youtube.com/watch?v=fkvc9Qc5ycE
-# https://www.youtube.com/@LucasThompson/videos
-# https://www.youtube.com/watch?v=PxoG0A2QoFs
-# https://www.youtube.com/playlist?list=PLTWFMbPFsvz3CeozHfeuJIXWAJMkPtAdS
-# https://www.youtube.com/watch?v=yO4CiiigHjA
-# https://www.youtube.com/playlist?list=PLTWFMbPFsvz2LIR7thpuU738FcRQbR_8I
-# https://www.youtube.com/watch?v=MEt6rrxH8W4&t=7s
-
-
-# github
-
-# https://github.com/Farama-Foundation/Gymnasium
-# https://github.com/MatPoliquin/stable-retro
-# https://github.com/openai/gym
-# https://github.com/openai/retro#readme
-# https://github.com/openai/retro/tree/master/retro/data/stable
-# https://github.com/CodeReclaimers/neat-python
-# https://github.com/healthpotionstudios/MarioWorldAI-NEAT
-# https://github.com/szmyty/OpenAI-Retro-SuperMarioWorld-SNES
-# https://github.com/nicknochnack/MarioRL/blob/main/Mario%20Tutorial.ipynb
+https://www.youtube.com/watch?v=2eeYqJ0uBKE
+https://www.youtube.com/watch?v=qv6UVOQ0F44
+https://www.youtube.com/watch?v=fkvc9Qc5ycE
+https://www.youtube.com/@LucasThompson/videos
+https://www.youtube.com/watch?v=PxoG0A2QoFs
+https://www.youtube.com/playlist?list=PLTWFMbPFsvz3CeozHfeuJIXWAJMkPtAdS
+https://www.youtube.com/watch?v=yO4CiiigHjA
+https://www.youtube.com/playlist?list=PLTWFMbPFsvz2LIR7thpuU738FcRQbR_8I
+https://www.youtube.com/watch?v=MEt6rrxH8W4&t=7s
 
 
-# docs
+github
 
-# https://retro.readthedocs.io/en/latest/getting_started.html#create-a-gym-environment
-# https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html
-# https://stable-baselines3.readthedocs.io/en/master/
-# https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
-# https://openai.com/research/gym-retro
+https://github.com/Farama-Foundation/Gymnasium
+https://github.com/MatPoliquin/stable-retro
+https://github.com/openai/gym
+https://github.com/openai/retro#readme
+https://github.com/openai/retro/tree/master/retro/data/stable
+https://github.com/CodeReclaimers/neat-python
+https://github.com/healthpotionstudios/MarioWorldAI-NEAT
+https://github.com/szmyty/OpenAI-Retro-SuperMarioWorld-SNES
+https://github.com/nicknochnack/MarioRL/blob/main/Mario%20Tutorial.ipynb
 
 
-# misc
+docs
 
-# https://www.snesmaps.com/maps/SuperMarioWorld/SuperMarioWorld.html
-# https://www.smwcentral.net/?p=memorymap&game=smw&region=ram
-# https://pastebin.com/ZZmSNaHX
-# https://www.videogames.ai/2022/09/01/RX-6700s-Machine-Learning-ROCm.html
-# scenario.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#scenario-scenario-json
-# metadata.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#metadata-json
-# data.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#data-json
-# appendix for operations -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#appendix-operations
-# convert .bk2 to .mp4 -> https://retro.readthedocs.io/en/latest/python.html#render-to-video
-# |-> python3.8 -m retro.scripts.playback_movie SuperMarioWorld-Snes-YoshiIsland3-001490.bk2
-# keep an eye on GPU while training (AMD using ROCm, in terminal) -> watch -n 1 rocm-smi
+https://retro.readthedocs.io/en/latest/getting_started.html#create-a-gym-environment
+https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html
+https://stable-baselines3.readthedocs.io/en/master/
+https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+https://openai.com/research/gym-retro
+
+
+misc
+
+https://www.snesmaps.com/maps/SuperMarioWorld/SuperMarioWorld.html
+https://www.smwcentral.net/?p=memorymap&game=smw&region=ram
+https://pastebin.com/ZZmSNaHX
+https://www.videogames.ai/2022/09/01/RX-6700s-Machine-Learning-ROCm.html
+scenario.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#scenario-scenario-json
+metadata.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#metadata-json
+data.json -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#data-json
+appendix for operations -> https://retro.readthedocs.io/en/latest/integration.html?highlight=scenario#appendix-operations
+convert .bk2 to .mp4 -> https://retro.readthedocs.io/en/latest/python.html#render-to-video
+|-> python3.8 -m retro.scripts.playback_movie SuperMarioWorld-Snes-YoshiIsland3-001490.bk2
+keep an eye on GPU while training (AMD using ROCm, in terminal) -> watch -n 1 rocm-smi

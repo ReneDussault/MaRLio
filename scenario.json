@@ -9,7 +9,7 @@
     "variables": {
       "lives": {
         "op": "equal",
-        "reference": -1
+        "reference": 4
       },
       "end_of_level": {
         "op": "equal",
@@ -51,7 +51,7 @@
       "ypos": {
         "op": "equal",
         "reference": "last",
-        "reward": 10
+        "reward": 100
       },
       "ypos": {
         "op": "greater",
