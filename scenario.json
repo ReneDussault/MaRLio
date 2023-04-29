@@ -31,7 +31,7 @@
       "lives": {
         "op": "less",
         "reference": "last",
-        "penalty": 1000.0
+        "penalty": 10000.0
       },
       "xpos": {
         "op": "greater",
@@ -41,12 +41,12 @@
       "xpos": {
         "op": "less",
         "reference": "last",
-        "reward": 0.1
+        "reward": 1
       },
       "ypos": {
         "op": "less",
         "reference": "last",
-        "reward": 0.1
+        "reward": 1
       },
       "ypos": {
         "op": "equal",
@@ -56,17 +56,17 @@
       "ypos": {
         "op": "greater",
         "reference": "last",
-        "reward": 0.1
+        "reward": 1
       },
       "powerups": {
         "op": "greater",
         "reference": "last",
-        "reward": 100.0
+        "reward": 10000.0
       },
       "powerups": {
         "op": "less",
         "reference": "last",
-        "penalty": 1000.0
+        "penalty": 5000.0
       },
       "checkpoint": {
         "op": "equal",
