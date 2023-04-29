@@ -36,7 +36,7 @@
       "xpos": {
         "op": "greater",
         "reference": "last",
-        "reward": 0.5
+        "reward": 10
       },
       "xpos": {
         "op": "less",
@@ -51,7 +51,7 @@
       "ypos": {
         "op": "equal",
         "reference": "last",
-        "reward": 0.5
+        "reward": 10
       },
       "ypos": {
         "op": "greater",
@@ -61,12 +61,12 @@
       "powerups": {
         "op": "greater",
         "reference": "last",
-        "reward": 1000.0
+        "reward": 100.0
       },
       "powerups": {
         "op": "less",
         "reference": "last",
-        "penalty": 5000.0
+        "penalty": 1000.0
       },
       "checkpoint": {
         "op": "equal",
