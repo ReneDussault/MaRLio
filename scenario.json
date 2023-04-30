@@ -41,12 +41,12 @@
       "xpos": {
         "op": "less",
         "reference": "last",
-        "reward": 1
+        "reward": 0.1
       },
       "ypos": {
         "op": "less",
         "reference": "last",
-        "reward": 2
+        "reward": 1
       },
       "ypos": {
         "op": "equal",
@@ -56,7 +56,7 @@
       "ypos": {
         "op": "greater",
         "reference": "last",
-        "reward": 1
+        "reward": 0.1
       },
       "powerups": {
         "op": "greater",
