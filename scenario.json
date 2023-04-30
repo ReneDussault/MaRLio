@@ -9,7 +9,7 @@
     "variables": {
       "lives": {
         "op": "equal",
-        "reference": 3
+        "reference": -1
       },
       "end_of_level": {
         "op": "equal",
@@ -40,21 +40,6 @@
       },
       "xpos": {
         "op": "less",
-        "reference": "last",
-        "reward": 1
-      },
-      "ypos": {
-        "op": "less",
-        "reference": "last",
-        "reward": 1
-      },
-      "ypos": {
-        "op": "equal",
-        "reference": "last",
-        "reward": 100
-      },
-      "ypos": {
-        "op": "greater",
         "reference": "last",
         "reward": 1
       },
