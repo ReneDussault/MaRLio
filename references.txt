@@ -22,6 +22,7 @@ https://github.com/CodeReclaimers/neat-python
 https://github.com/healthpotionstudios/MarioWorldAI-NEAT
 https://github.com/szmyty/OpenAI-Retro-SuperMarioWorld-SNES
 https://github.com/nicknochnack/MarioRL/blob/main/Mario%20Tutorial.ipynb
+https://github.com/cspace-000/SuperMarioWorld_env/tree/master
 
 
 docs
