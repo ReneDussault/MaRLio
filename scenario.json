@@ -33,6 +33,11 @@
         "reference": "last",
         "penalty": 3000.0
       },
+      "lives": {
+        "op": "greater",
+        "reference": "last",
+        "penalty": 10000.0
+      },
       "xpos": {
         "op": "greater",
         "reference": "last",
@@ -71,12 +76,12 @@
       "checkpoint": {
         "op": "equal",
         "reference": 1,
-        "reward": 500000.0
+        "reward": 50000.0
       },
       "end_of_level": {
         "op": "equal",
         "reference": 1,
-        "reward": 1000000.0
+        "reward": 100000.0
       }
     }
   }
