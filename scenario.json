@@ -51,17 +51,12 @@
       "ypos": {
         "op": "less",
         "reference": "last",
-        "reward": 1
+        "reward": 0.1
       },
       "ypos": {
         "op": "equal",
         "reference": "last",
         "reward": 5
-      },
-      "ypos": {
-        "op": "greater",
-        "reference": "last",
-        "reward": 0.1
       },
       "powerups": {
         "op": "greater",
@@ -76,12 +71,12 @@
       "checkpoint": {
         "op": "equal",
         "reference": 1,
-        "reward": 50000.0
+        "reward": 100000.0
       },
       "end_of_level": {
         "op": "equal",
         "reference": 1,
-        "reward": 100000.0
+        "reward": 250000.0
       }
     }
   }
