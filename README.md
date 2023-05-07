@@ -6,5 +6,5 @@
 [video](https://youtu.be/VJvW6f6e-Wo)  
 [references](references.txt)  
 [requirements](requirements.txt)  
-
+[proposal](proposal.txt)  
 
