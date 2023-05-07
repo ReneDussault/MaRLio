@@ -2,6 +2,7 @@
 ## Mario's adventure with Reinforcement Learning
 
 click [here](marlio.ipynb) to explore the notebook  
+and [here](https://youtu.be/VJvW6f6e-Wo) to watch a quick video  
 
 more documentation soon
 
